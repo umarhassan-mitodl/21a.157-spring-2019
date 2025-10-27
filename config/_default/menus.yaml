@@ -1,0 +1,32 @@
+leftnav:
+- identifier: c953d6ec-ae21-7a57-0120-0df86077e9a8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5fb63b9c-228a-885c-8fb3-defb16816a5e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: f5631aaf-f470-de1b-3ad4-0f00ad8cf73d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f92d8413-9a84-bd3d-7b4a-8ac716679858
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 8a7fd250-8edd-8a5c-64df-2323172c01c3
+  name: '"Moral Moment" Vignette'
+  pageRef: /pages/assignments/moral-moment-vignette
+  parent: f92d8413-9a84-bd3d-7b4a-8ac716679858
+  weight: 50
+- identifier: 64374fbf-e920-e4b6-ead9-6367e2409cd3
+  name: Investigation Papers
+  pageRef: /pages/assignments/investigation-papers
+  parent: f92d8413-9a84-bd3d-7b4a-8ac716679858
+  weight: 60
+- identifier: b79ffd3f-8cc9-cfc4-1fb4-a46e3933913f
+  name: Final Paper
+  pageRef: /pages/assignments/final-paper
+  parent: f92d8413-9a84-bd3d-7b4a-8ac716679858
+  weight: 70
